@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sharayu Markunde
-- 🌱 I’m currently learning Javascript, React JS
+- 🌱 I’m currently learning Automation Testing
 - 💬 Ask me about java
 - 📫 How to reach me sharayumarkunde14@gmail.com
 
